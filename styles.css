@@ -1,0 +1,35 @@
+figcaption {
+    text-align: center;
+    margin-top: -1px;
+    font-style: italic;
+    color: grey;
+    
+  }
+  #main {
+    margin: 0 auto;
+    max-width: 70%;
+  }
+  body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+  h1, h2 {
+    text-align: center;
+   
+  }
+  
+  img {
+     display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  a {
+    color: green; 
+    display: block;
+    text-align: center;
+    
+    text-decoration: none;
+  }
+  
